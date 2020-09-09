@@ -1,0 +1,23 @@
+#include<stdio.h>
+int main(void)
+{//fadfadsjf
+    int x=100;
+
+    int 1248saf=aa;
+dasfd=134.97;
+float 3.42=a/ss;
+
+
+ass= 100/aa;
+/*fdasf大发发8*/
+
+cout<< daf2313 <<2.35<<endl;
+
+/*
+asdfjd
+多少级啊老发烧
+dafjda
+*/
+
+return 0;
+}
